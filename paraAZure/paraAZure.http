@@ -1,0 +1,6 @@
+@paraAZure_HostAddress = http://localhost:5157
+
+GET {{paraAZure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
